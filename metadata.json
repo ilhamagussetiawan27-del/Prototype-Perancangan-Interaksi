@@ -1,0 +1,6 @@
+{
+  "name": "LittleSeed Plants",
+  "description": "Toko tanaman hias indoor LittleSeed Plants dengan katalog lengkap, pencarian pintar, rekomendasi Plant Finder, dan panduan perawatan tanaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
